@@ -1,13 +1,3 @@
-# This is a dictionary that maps the values 0-6 to the days of the week
-days = {0 : "Saturday",
-        1 : "Sunday",
-        2 : "Monday",
-        3 : "Tuesday",
-        4 : "Wednesday",
-        5 : "Thursday",
-        6 : "Friday"
-        }
-
 # This is a dictionary that maps the values 2-7 to the days of the week
 day_value = {2       :"Monday" ,
              3       :"Tuesday" ,
