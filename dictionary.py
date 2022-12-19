@@ -1,4 +1,4 @@
-# This is a dictionary that maps the values 2-7 to the days of the week
+# This is a dictionary that maps the values 1-7 to the days of the week
 day_value = {2       :"Monday" ,
              3       :"Tuesday" ,
              4       :"Wednesday",
