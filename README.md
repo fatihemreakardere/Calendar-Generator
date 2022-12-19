@@ -2,6 +2,9 @@
 
 This project generates a calendar for a given month and year. It uses Zeller's congruence to determine the day of the week for the first day of the month.
 
+## Zeller's congruence
+https://en.wikipedia.org/wiki/Zeller's_congruence
+
 ## Prerequisites
 No external dependencies are required for this project.
 
